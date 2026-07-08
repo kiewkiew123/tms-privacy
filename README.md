@@ -1,2 +1,3 @@
 # tms-privacy
-TMS privacy policy
+The iOS app does not collect any user data of any kind. 
+
